@@ -40,8 +40,7 @@
             <!-- Menu Topbar Social Start -->
             <ul class="menu-topbar--social nav navbar-nav navbar-right">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                 <li><a href="#"><i class="fa fa-rss"></i></a></li>
             </ul>
             <!-- Menu Topbar Social End -->
@@ -53,7 +52,7 @@
         <div class="container">
             <!-- Logo Start -->
             <div class="primary--logo">
-                <h1><a href="http://themelooks.us/demo/ecohosting/wordpress/"><span><i class="fa fa-tree"></i>Eco</span>Hosting</a></h1>
+                <h1><a href="https://trycoolhosting.com/billing"><span><i class="fa fa-tree"></i>TryCool</span>Hosting</a></h1>
             </div>
             <!-- Logo End -->
             <div class="primary--info clearfix">
@@ -71,7 +70,7 @@
                         <img src="{$WEB_ROOT}/templates/{$template}/img/top-bar-icons/02.png" alt="" class="img-responsive">
                     </div>
                     <div class="primary--content">
-                        <p class="count">45 Day Guarantee</p>
+                        <p class="count">50% off</p>
                         <p>Lorem ipsum dolor</p>
                     </div>
                 </div>
